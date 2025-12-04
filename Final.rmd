@@ -38,7 +38,7 @@ While doing my Research i found we can not accept or reject the Null because it 
 
 ## Druggies
 
-After doing my Research, I found out here we can not accept or reject the Null because it is not equal to 1 too and neither is alternative because there is no data. The p-value is also 1.
+After doing my Research, I found out here we can not accept or reject the Null because it is not equal to 1 too and neither is alternative because there is no data. The p-value is also 1. 
 
 
 # Overall Results and Conclusions
