@@ -43,4 +43,4 @@ After doing my Research, I found out here we can not accept or reject the Null b
 
 # Overall Results and Conclusions
 
-In overall results my conculsion is the data about the vaccine was sucsessful and Statisically was effective between Males and Females because we do not have enough data for the LGBTQ and the Drugusers to get their Null and Alternative Hypothesis. But the P-value was 1 for the LGBTQ and Drugusers. The Males were stronger (2.82) While Females wasn't Strong enough (1.86). 
+In overall results my conculsion is the data about the vaccine was sucsessful and Statisically was effective between Males and Females because we do not have enough data for the LGBTQ and the Drugusers to get their Null and Alternative Hypothesis. But the P-value was 1 for the LGBTQ and Drugusers. The Males were stronger (2.82) While Females wasn't Strong enough (1.86).  
