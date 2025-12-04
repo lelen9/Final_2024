@@ -26,7 +26,7 @@ A new  preventative vaccine (covid921) is under test in clinical trials. Given t
 
 ## Males
 
-By doing my research, I've analyzed the Null Hypothesis and we would reject for being equal to or less than to 1. For the alternative Hypothesis is actually greater than 1, (2.21) and (3.61). So therefore they are not equal to 1. The P-value is 2.2e-16. After putting everything together The vaccine worked way than the placebo on the infected. While it did nothing to the Okay meaning it would work 95%.
+By doing my research, I've analyzed the Null Hypothesis and we would reject for being equal to or less than to 1. For the alternative Hypothesis is actually greater than 1, (2.21) and (3.61). So therefore they are not equal to 1. The P-value is 2.2e-16. After putting everything together The vaccine worked way than the placebo on the infected. While it did nothing to the Okay meaning it would work 95%. 
 
 ## Females
 
@@ -43,4 +43,4 @@ After doing my Research, I found out here we can not accept or reject the Null b
 
 # Overall Results and Conclusions
 
-In overall results my conculsion is the data about the vaccine was sucsessful and Statisically was effective between Males and Females because we do not have enough data for the LGBTQ and the Drugusers to get their Null and Alternative Hypothesis. But the P-value was 1 for the LGBTQ and Drugusers. The Males were stronger (2.82) While Females wasn't Strong enough (1.86).
+In overall results my conculsion is the data about the vaccine was sucsessful and Statisically was effective between Males and Females because we do not have enough data for the LGBTQ and the Drugusers to get their Null and Alternative Hypothesis. But the P-value was 1 for the LGBTQ and Drugusers. The Males were stronger (2.82) While Females wasn't Strong enough (1.86). 
