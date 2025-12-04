@@ -34,7 +34,7 @@ By doing my research, I've analyzed the Null Hypothesis and we would reject it b
 
 ## LGBTQ
 
-While doing my Research i found we can not accept or reject the Null because it is not equal to 1 and neither is alternative because there is no data. The p-value is 1.
+While doing my Research i found we can not accept or reject the Null because it is not equal to 1 and neither is alternative because there is no data. The p-value is 1. 
 
 ## Druggies
 
