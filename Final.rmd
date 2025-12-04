@@ -30,7 +30,7 @@ By doing my research, I've analyzed the Null Hypothesis and we would reject for 
 
 ## Females
 
-By doing my research, I've analyzed the Null Hypothesis and we would reject it because it is way too small. but for the alternative Hypothesis is actually smaller than 1 due to the confidence being (1.49) and (2.32). So therefore they are not equal to 1. The P-value is 1.24e-08 After putting everything together The vaccine worked less than the placebo on the infected. while it did nothing to the Okay meaning is did not work 95$.
+By doing my research, I've analyzed the Null Hypothesis and we would reject it because it is way too small. but for the alternative Hypothesis is actually smaller than 1 due to the confidence being (1.49) and (2.32). So therefore they are not equal to 1. The P-value is 1.24e-08 After putting everything together The vaccine worked less than the placebo on the infected. while it did nothing to the Okay meaning is did not work 95%.
 
 ## LGBTQ
 
